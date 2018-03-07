@@ -95,7 +95,7 @@
     "codeclimate-test-reporter": "~0.5",
     "cross-spawn": "~6.0.3",
     "form-data": "~2.3",
-    "frisby": "~2.0",
+    "frisby": "~2.0.14",
     "grunt-cli": "~1.2",
     "http-server": "~0.11.1",
     "jasmine": "~2.9",
